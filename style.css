@@ -1,15 +1,9 @@
-  }
-        
-    }
-    }
-  } else {  // é menor que 10
-    if (gostaDeFantasia) { //menor de 10 e gosta de fantasia?
-      return "6"; // se sim
-    } else { // se não...
-      return "7"; //esse
-    }
-  }
-}
+header { 
+border-bottom: solid 2px rgb(42, 122, 228); 
+padding: 20px; 
+font-size: 32px;
+ color: rgb(42, 122, 228);
+ }
 body {
   color:black;
   background:pink
