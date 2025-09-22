@@ -6,7 +6,8 @@ font-size: 32px;
  }
 body {
   color:black;
-  background:pink
+ background:pink
+font-family: "Pacifico", cursive;
 }
 section{
  background:rgb(010,101,001);
